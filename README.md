@@ -9,6 +9,8 @@ El sitio está pensado para ser simple de usar y fácil de extender, de manera q
 ## 📂 Estructura del proyecto
 
 COLOMBIA/
+
+
 │── amazonas.html # Página dedicada al Amazonas
 │── antioquia.html # Página dedicada a Antioquia
 │── meta.html # Página dedicada al Meta
