@@ -12,11 +12,17 @@ COLOMBIA/
 
 
 │── amazonas.html # Página dedicada al Amazonas
+
 │── antioquia.html # Página dedicada a Antioquia
+
 │── meta.html # Página dedicada al Meta
+
 │── mapa.html # Página general del mapa de Colombia
+
 │── ANTIOQUIA-1280x720-1.jpg # Imagen de soporte para la página de Antioquia
+
 │── *.jpg / *.png # Resto de imágenes para ilustrar el contenido
+
 │── .git/ # Carpeta de control de versiones Git
 
 Cada archivo `.html` funciona de manera independiente, pero puede conectarse a través de enlaces de navegación para ofrecer una experiencia más fluida al usuario.  
